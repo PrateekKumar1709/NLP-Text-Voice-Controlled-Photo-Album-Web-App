@@ -18,11 +18,11 @@ apigClientFactory.newClient = function (config) {
     var apigClient = { };
     if(config === undefined) {
         config = {
-            accessKey: 'AKIATRXFNWPNOKQHJNUY',
-            secretKey: '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',
+            accessKey: '',
+            secretKey: '',
             sessionToken: '',
             region: 'us-east-1',
-            apiKey: 'vNhenx9hWR35gvrda6hRP2iQIAC0xlBV9EDy0qEr',
+            apiKey: '',
             defaultContentType: 'application/json',
             defaultAcceptType: 'application/json'
         };
