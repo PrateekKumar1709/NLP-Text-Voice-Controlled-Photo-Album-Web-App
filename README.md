@@ -7,4 +7,6 @@ In this project I have implemented a smart photo album web application, that can
 
 ## Architecture:
 
+![architecture](https://user-images.githubusercontent.com/85689959/140629021-ba4d9d03-da61-4350-8a3f-88ffd16d8127.png)
+
 
